@@ -47,9 +47,9 @@ Notable Works
 
 🎨 Creative Projects
 
-    [Samanthi Operating System: Reimagining system architecture](https://github.com/ash-hashtag/samanthi-os)
-    [Lotus Game Engine: Pushing boundaries in game development](https://github.com/ash-hashtag/lotus)
-    [Mantis Programming Language: Crafting elegant syntax for modern development](https://github.com/ash-hashtag/mantis)
+    Samanthi Operating System: Reimagining system architecture [repo](https://github.com/ash-hashtag/samanthi-os)
+    Lotus Game Engine: Pushing boundaries in game development [repo](https://github.com/ash-hashtag/lotus)
+    Mantis Programming Language: Crafting elegant syntax for modern development [repo](https://github.com/ash-hashtag/mantis)
 
 Let's Create Something Extraordinary
 <div align="center">

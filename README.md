@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ash-hashtag/ash-hashtag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 Sri Pranav Tene
-Crafting Digital Excellence
 
 "The art of software lies not in what you create, but in the elegance of how you create it."
 </div>
@@ -46,12 +45,15 @@ Notable Works
     Architecting scalable solutions for digital media transformation
 
 🎨 Creative Projects
+```
 
 Samanthi Operating System: Reimagining system architecture [repo](https://github.com/ash-hashtag/samanthi-os)
 
 Lotus Game Engine: Pushing boundaries in game development [repo](https://github.com/ash-hashtag/lotus)
 
 Mantis Programming Language: Crafting elegant syntax for modern development [repo](https://github.com/ash-hashtag/mantis)
+
+```
 
 Let's Create Something Extraordinary
 <div align="center">

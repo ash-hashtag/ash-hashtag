@@ -1,60 +1,31 @@
 
 
-<!--
-**ash-hashtag/ash-hashtag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Ash
 
 
-<div align="center">
-Sri Pranav Tene
+<h2> About Me </h2>
 
-"The art of software lies not in what you create, but in the elegance of how you create it."
-</div>
-The Essence
+<img width="55%" align="right" alt="Github" src="./assets/github.gif" />
 
-Building exceptional software is my craft. From orchestrating system kernels to crafting intuitive interfaces, I bring a blend of technical mastery and creative innovation to every project. Currently shaping the future of digital media at Lupyd, where bold ideas transform into reality.
-Artistry & Expertise
-Software Craftsmanship
 
-    Systems Engineering: Author of Mantis Programming Language
-    Application Architecture: Full-stack solutions with modern tech stacks
-    Innovation: Pioneering new approaches in Web3 and AI/ML trading systems
+- 🔭 I’m currently working on Mantis Programming Language
 
-Technical Palette
+- 🌱 I’m currently learning Quantum Computing and web3
 
-    Languages: Rust, TypeScript, C++, Python, Dart
-    Frameworks: Flutter, React, Node.js, Unity
-    Specialties: Low-level systems, Mobile development, Game engines
+- 👯 I’m looking to collaborate on awesome projects
 
-Notable Works
+- 💬 Talk to me about anything
 
-🎭 Lupyd Media Pvt. Ltd.
+- 🤖 Full Stack Developer at 🎭 Lupyd
 
-    Leading technical innovation as Director & Core Developer
-    Architecting scalable solutions for digital media transformation
 
-🎨 Creative Projects
-- Samanthi Operating System: Reimagining system architecture [repo](https://github.com/ash-hashtag/samanthi-os)
-- Lotus Game Engine: Pushing boundaries in game development [repo](https://github.com/ash-hashtag/lotus)
-- Mantis Programming Language: Crafting elegant syntax for modern development [repo](https://github.com/ash-hashtag/mantis)
+<h2> Skills <img src = "./assets/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' height='32px' src ='./assets/rust.svg'> </a>
+<a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' height='32px' src ='./assets/flutter.svg'> </a>
+<a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='./assets/python.svg'> </a>
+<a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='./assets/cpp.svg'> </a>
+<a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='./assets/typescript.svg'> </a>
 
-Let's Create Something Extraordinary
-<div align="center">
 
-Connect with me to explore the possibilities
-
-</div> <div align="center">
-
-"Simplicity is the ultimate sophistication."
-</div>
+### Get in touch with me...
+[📫 Mail](mailto://hashtag438@gmail.com)

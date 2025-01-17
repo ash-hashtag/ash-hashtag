@@ -27,7 +27,7 @@ Building exceptional software is my craft. From orchestrating system kernels to 
 Artistry & Expertise
 Software Craftsmanship
 
-    Systems Engineering: Author of Samanthi OS and Mantis Programming Language
+    Systems Engineering: Author of Mantis Programming Language
     Application Architecture: Full-stack solutions with modern tech stacks
     Innovation: Pioneering new approaches in Web3 and AI/ML trading systems
 

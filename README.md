@@ -20,7 +20,7 @@
 
 
 <h2> Skills <img src = "./assets/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' height='32px' src ='./assets/rust.svg'> </a>
+<a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' height='32px' src ='./assets/rust.webp'> </a>
 <a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' height='32px' src ='./assets/flutter.svg'> </a>
 <a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='./assets/python.svg'> </a>
 <a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='./assets/cpp.svg'> </a>

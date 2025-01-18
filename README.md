@@ -27,5 +27,9 @@
 <a href= https://github.com/ash-hashtag?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='./assets/typescript.svg'> </a>
 
 
+![GitHub Stats](./assets/languages.svg)
+
+
+
 ### Get in touch with me...
 [📫 Mail](mailto://hashtag438@gmail.com)
